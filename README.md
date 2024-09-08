@@ -20,11 +20,9 @@
 
 3. Clone your fork using **GitHub Desktop** and open the cloned repository in [**Visual Studio Code**](https://code.visualstudio.com/download) (**VSCode**).
 
-4. Open the cloned project in **VSCode**, work on
+4. Duplicate / Copy + Paste all contents of `/_template` folder to your own folder after your fullname. Example: `john-doe`.
 
-5. Duplicate / Copy + Paste all contents of `/_template` folder to your own folder after your fullname. Example: `john-doe`
-
-6. Commit your changes using imperative commit messages.
+5. Update the project in your own folder and commit your changes using imperative commit messages.
 
    Examples:
     - *"Update homepage."*
@@ -32,7 +30,7 @@
     - *"Write intro."*
 
 
-7.Push your commits to your fork using **GitHub Desktop**.
+6. Push your commits to your fork using **GitHub Desktop**.
 
 
-8. When you're done, make a **Pull Request** from your fork to the upstream (original) repository.
+7. When you're done, make a **Pull Request** from your fork to the upstream (original) repository.

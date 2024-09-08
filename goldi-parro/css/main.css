@@ -1,0 +1,19 @@
+.avatar {
+    position: relative;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.avatar > img {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 130%;
+
+}
+.container {
+    position: relative;
+}
+
