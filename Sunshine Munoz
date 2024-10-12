@@ -1,0 +1,108 @@
+# Auto detect t<!DOCTYPE html>
+               <html lang="en">
+               <head>
+                   <meta charset="UTF-8">
+                   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                   <title>Sunshine M. - Web Developer & Law Clerk</title>
+                   <style>
+                       body {
+                           font-family: Arial, sans-serif;
+                           margin: 0;
+                           padding: 0;
+                           background-color: #000;
+                           color: #ff69b4;
+                       }
+                       header {
+                           background-color: #000;
+                           color: #ff69b4;
+                           padding: 20px;
+                           text-align: center;
+                       }
+                       nav {
+                           background-color: #333;
+                           padding: 10px 20px;
+                           text-align: center;
+                       }
+                       nav a {
+                           text-decoration: none;
+                           color: #ff69b4;
+                           margin: 0 10px;
+                       }
+                       section {
+                           padding: 20px;
+                           text-align: center;
+                       }
+                       footer {
+                           background-color: #000;
+                           color: #ff69b4;
+                           padding: 10px 20px;
+                           text-align: center;
+                           position: fixed;
+                           bottom: 0;
+                           width: 100%;
+                       }
+                       .skills {
+                           text-align: left;
+                           margin-left: 20px;
+                       }
+                       .portfolio {
+                           display: flex;
+                           flex-wrap: wrap;
+                           justify-content: center;
+                       }
+                       .portfolio-item {
+                           margin: 10px;
+                       }
+                       .portfolio-item img {
+                           width: 200px;
+                           height: 150px;
+                           object-fit: cover;
+                       }
+                   </style>
+               </head>
+               <body>
+                   <header>
+                       <h1>Sunshine M.</h1>
+                       <h2>Aspiring Web Developer & Law Clerk</h2>
+                   </header>
+                   <nav>
+                       <a href="#about">About</a>
+                       <a href="#skills">Skills</a>
+                       <a href="#portfolio">Portfolio</a>
+                       <a href="#contact">Contact</a>
+                   </nav>
+                   <section id="about">
+                       <h2>About Me</h2>
+                       <p>Hi, I'm Sunshine M. I am passionate about both web development and law. I love creating beautiful and functional websites, and I am also dedicated to my work as a law clerk.</p>
+                   </section>
+                   <section id="skills">
+                       <h2>Skills</h2>
+                       <ul class="skills">
+                           <li>HTML</li>
+                           <li>CSS</li>
+                           <li>JavaScript</li>
+                           <li>Python</li>
+                           <li>Legal Research</li>
+                           <li>Legal Writing</li>
+                       </ul>
+                   </section>
+                   <section id="portfolio">
+                       <h2>Portfolio</h2>
+                       <div class="portfolio">
+                           <div class="portfolio-item">
+                               <img src="project1.jpg" alt="Project 1">
+                               <p>Project 1</p>
+                           </div>
+                           <div class="portfolio-item">
+                               <img src="project2.jpg" alt="Project 2">
+                               <p>Project 2</p>
+                           </div>
+                           <!-- Add more portfolio items as needed -->
+                       </div>
+                   </section>
+                   <section id="contact">
+                       <h2>Contact Me</h2>
+                       <p>Email: bikolanamodela@gmail.com</p>
+                       <p>Phone: 09614002689
+ext files and perform LF normalization
+* text=auto
