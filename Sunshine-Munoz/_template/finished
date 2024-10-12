@@ -1,4 +1,4 @@
-# Auto detect t<!DOCTYPE html>
+<!DOCTYPE html>
                <html lang="en">
                <head>
                    <meta charset="UTF-8">
@@ -104,5 +104,3 @@
                        <h2>Contact Me</h2>
                        <p>Email: bikolanamodela@gmail.com</p>
                        <p>Phone: 09614002689
-ext files and perform LF normalization
-* text=auto
